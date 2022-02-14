@@ -1,0 +1,11 @@
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.Business.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.Business.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.DA.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.Entity.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ConfigFileHandlerDll.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.DA.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\ContinentalExam.Entity.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\obj\Debug\ContinentalExam.Business.csprojResolveAssemblyReference.cache
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\obj\Debug\ContinentalExam.Business.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\obj\Debug\ContinentalExam.Business.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Business\bin\Debug\itextsharp.dll

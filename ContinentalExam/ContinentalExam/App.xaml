@@ -1,0 +1,9 @@
+﻿<Application x:Class="ContinentalExam.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Pages/Transactions/Sales.xaml">
+    <Application.Resources>
+        <!--StartupUri="Pages/Transactions/Sales.xaml"-->
+        <!--StartupUri="Pages/Catalogs/MainWindow.xaml"-->
+    </Application.Resources>
+</Application>

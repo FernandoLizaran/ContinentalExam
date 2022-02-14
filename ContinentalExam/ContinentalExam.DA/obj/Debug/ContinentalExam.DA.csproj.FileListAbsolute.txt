@@ -1,0 +1,6 @@
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\obj\Debug\ContinentalExam.DA.csprojResolveAssemblyReference.cache
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\bin\Debug\ContinentalExam.DA.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\bin\Debug\ContinentalExam.DA.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\obj\Debug\ContinentalExam.DA.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\obj\Debug\ContinentalExam.DA.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.DA\bin\Debug\ConfigFileHandlerDll.dll

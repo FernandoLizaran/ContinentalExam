@@ -1,0 +1,6 @@
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\bin\Debug\ContinentalExam.Entity.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\bin\Debug\ContinentalExam.Entity.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\obj\Debug\ContinentalExam.Entity.csprojResolveAssemblyReference.cache
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\obj\Debug\ContinentalExam.Entity.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\obj\Debug\ContinentalExam.Entity.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.Entity\bin\Debug\itextsharp.dll

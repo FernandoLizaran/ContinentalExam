@@ -1,0 +1,13 @@
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\obj\Debug\ContinentalExam.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.UnitTest.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.UnitTest.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.Business.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.Entity.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.DA.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\itextsharp.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ConfigFileHandlerDll.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.Business.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.Entity.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\bin\Debug\ContinentalExam.DA.pdb
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\obj\Debug\ContinentalExam.UnitTest.dll
+C:\Users\fer_s\onedrive\documentos\visual studio 2012\Projects\ContinentalExam\ContinentalExam.UnitTest\obj\Debug\ContinentalExam.UnitTest.pdb
